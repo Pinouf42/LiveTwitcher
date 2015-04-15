@@ -9,4 +9,3 @@ E:\Projet\LiveTwitcher\LiveTwitcher\bin\Debug\Newtonsoft.Json.dll
 E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.cls_Streamer.resources
 E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.frm_Principale.resources
 E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.frm_Username.resources
-E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.csprojResolveAssemblyReference.cache
