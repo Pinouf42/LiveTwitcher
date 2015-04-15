@@ -20,6 +20,8 @@ Here is a little list of available functionnalities:
 
 There is actually no installer, just copy the program in a folder (with DLLs and resources) and start it. I personnally made a shortcut into the "Start" folder in the startmenu to automatically launch it at startup.
 
+Screen capture: http://pasteboard.co/2ALQnkK2.png
+
 Thanks for your interest.
 
 PS: I know there is MANY improvments to do with this app but I try to update it as fast as I can :)
