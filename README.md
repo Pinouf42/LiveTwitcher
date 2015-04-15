@@ -24,6 +24,8 @@ Screen capture: http://pasteboard.co/2ALQnkK2.png
 
 Thanks for your interest.
 
+READY TO USE APP IS IN THE "LiveTwitcher" FOLDER AND "READY TO USE" FOLDER :)
+
 PS: I know there is MANY improvments to do with this app but I try to update it as fast as I can :)
 
 This software is under MIT License.
