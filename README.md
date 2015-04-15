@@ -19,3 +19,7 @@ Here is a little list of available functionnalities:
 - Show/Hide livestreamer window
 
 Thanks for your interest.
+
+PS: I know there is MANY improvments to do with this app but I try to update it as fast as I can :)
+
+This software is under MIT License.
