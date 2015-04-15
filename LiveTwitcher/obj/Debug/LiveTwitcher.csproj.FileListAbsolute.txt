@@ -1,0 +1,12 @@
+E:\Projet\LiveTwitcher\LiveTwitcher\bin\Debug\LiveTwitcher.exe.config
+E:\Projet\LiveTwitcher\LiveTwitcher\bin\Debug\LiveTwitcher.exe
+E:\Projet\LiveTwitcher\LiveTwitcher\bin\Debug\LiveTwitcher.pdb
+E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.Properties.Resources.resources
+E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.csproj.GenerateResource.Cache
+E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.exe
+E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.pdb
+E:\Projet\LiveTwitcher\LiveTwitcher\bin\Debug\Newtonsoft.Json.dll
+E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.cls_Streamer.resources
+E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.frm_Principale.resources
+E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.frm_Username.resources
+E:\Projet\LiveTwitcher\LiveTwitcher\obj\Debug\LiveTwitcher.csprojResolveAssemblyReference.cache
