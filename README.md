@@ -17,6 +17,8 @@ Here is a little list of available functionnalities:
 - Start a stream with a different quality (right click on button)
 - Always show this window on top
 - Show/Hide livestreamer window
+- 
+There is actually no installer, just copy the program in a folder (with DLLs and resources) and start it. I personnally made a shortcut into the "Start" folder in the startmenu to automatically launch it at startup.
 
 Thanks for your interest.
 
